@@ -8,7 +8,7 @@ A Spartacus Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
 ```bash
 #join in tele please
-@agent_spartacus
+[Join](https://telegram.me/agent_spartacus)
 ```
 Multimedia
 ----------
