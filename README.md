@@ -6,6 +6,10 @@ telegram-bot
 
 A Spartacus Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
+```bash
+#join in tele please
+@agent_spartacus
+```
 Multimedia
 ----------
 - When user sends image (png, jpg, jpeg) URL download and send it to origin.
