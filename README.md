@@ -4,7 +4,7 @@ telegram-bot
 [![https://telegram.me/joinchat/spartacus_echo_team](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Spartacus-red.svg)](https://telegram.me/joinchat/spartacus_echo_team) [![https://telegram.me/spartacusTEAM_news](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-NEWS-green.svg)](https://telegram.me/spartacusTEAM_news) [![https://telegram.me/spartacus_echo_bot](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-antispam_bot-blue.svg)](https://telegram.me/spartacus_echo_bot])
 [![https://telegram.me/agent_spartacus](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Agent_(Creator)-yellow.svg)](https://telegram.me/agent_spartacus/ "Donate to Red Cross Society")
 
-A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
+A Spartacus Bot based on plugins using [tg](https://github.com/vysheng/tg).
 
 Multimedia
 ----------
@@ -318,7 +318,7 @@ Bot Commands
   </tbody>
 </table>
 
-[Installation](https://github.com/yagop/telegram-bot/wiki/Installation)
+# Installation
 ------------
 ```bash
 # Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
@@ -328,13 +328,13 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME
-git clone https://github.com/yagop/telegram-bot.git
-cd telegram-bot
+git clone https://github.com/MakhofMan0085/self_bot_new.git
+cd self_bot_new
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-Enable more [`plugins`](https://github.com/yagop/telegram-bot/tree/master/plugins)
+Enable more [`plugins`](https://github.com/MakhofMan0085/self_bot_new/tree/supergroups/plugins)
 -------------
 See the plugins list with `!plugins` command.
 
@@ -358,6 +358,6 @@ $ sudo stop telegram # To stop it
 
 Contact me
 ------------
-You can contact me [via Telegram](https://telegram.me/yago_perez) but if you have an issue please [open](https://github.com/yagop/telegram-bot/issues) one.
+You can contact me [via Telegram](https://telegram.me/agent_spartacus) but if you have an issue please [open](https://github.com/MakhofMan0085/self_bot_new/issues) one.
 
-[Join](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw) on the TelegramBot Discussion Group.
+[CHANNEL](https://telegram.me/joinchat/spartacus_echo_team) or [NEWS](https://telegram.me/joinchat/spartacus_echo_team)on the TelegramBot Discussion Group.
